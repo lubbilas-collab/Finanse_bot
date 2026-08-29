@@ -1,2 +1,3 @@
-aiogram==3.13.1
+
+aiogram==3.13.1 --only-binary=:all:
 google-genai==1.3.0
